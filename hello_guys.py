@@ -13,3 +13,7 @@ krtry:
     pprint(api_response)
 except ApiException as e:
     print("Exception when calling MoviesApiApi->a_pi_top250_movies_api_key_get: %s\n"% e)
+
+
+
+    #dodaje komentarz
